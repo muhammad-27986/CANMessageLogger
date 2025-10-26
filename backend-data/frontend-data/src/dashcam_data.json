@@ -1,275 +1,5 @@
 [
     {
-        "timestamp": "2025-10-26T14:40:44.800278",
-        "speed": 129.16,
-        "gps": {
-            "lat": 21.573828,
-            "lon": 44.638379
-        },
-        "camera_frame": "frame_750.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.811292",
-        "speed": 96.03,
-        "gps": {
-            "lat": 59.735598,
-            "lon": -44.334852
-        },
-        "camera_frame": "frame_97.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.821499",
-        "speed": 84.84,
-        "gps": {
-            "lat": 38.059274,
-            "lon": -30.049322
-        },
-        "camera_frame": "frame_343.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.831749",
-        "speed": 31.36,
-        "gps": {
-            "lat": -32.260165,
-            "lon": -86.425708
-        },
-        "camera_frame": "frame_240.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.841982",
-        "speed": 167.9,
-        "gps": {
-            "lat": 21.247885,
-            "lon": -179.786208
-        },
-        "camera_frame": "frame_188.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.852133",
-        "speed": 67.27,
-        "gps": {
-            "lat": 18.763274,
-            "lon": -94.158721
-        },
-        "camera_frame": "frame_409.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.862493",
-        "speed": 7.45,
-        "gps": {
-            "lat": -61.224733,
-            "lon": 73.270405
-        },
-        "camera_frame": "frame_629.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.872634",
-        "speed": 99.57,
-        "gps": {
-            "lat": -77.877706,
-            "lon": 22.428485
-        },
-        "camera_frame": "frame_701.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.882885",
-        "speed": 14.73,
-        "gps": {
-            "lat": 72.93101,
-            "lon": 114.014069
-        },
-        "camera_frame": "frame_108.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.893131",
-        "speed": 131.14,
-        "gps": {
-            "lat": -52.406927,
-            "lon": 104.253747
-        },
-        "camera_frame": "frame_154.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.903354",
-        "speed": 130.19,
-        "gps": {
-            "lat": 7.280249,
-            "lon": 133.88045
-        },
-        "camera_frame": "frame_676.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.913774",
-        "speed": 102.28,
-        "gps": {
-            "lat": 27.9641,
-            "lon": 31.597969
-        },
-        "camera_frame": "frame_86.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.924141",
-        "speed": 95.24,
-        "gps": {
-            "lat": -0.559918,
-            "lon": 122.778483
-        },
-        "camera_frame": "frame_978.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.934302",
-        "speed": 104.55,
-        "gps": {
-            "lat": 51.33884,
-            "lon": -60.770654
-        },
-        "camera_frame": "frame_130.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.944449",
-        "speed": 196.26,
-        "gps": {
-            "lat": -75.977539,
-            "lon": -159.956581
-        },
-        "camera_frame": "frame_339.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.954604",
-        "speed": 87.14,
-        "gps": {
-            "lat": -56.002136,
-            "lon": -19.935213
-        },
-        "camera_frame": "frame_279.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.964805",
-        "speed": 191.88,
-        "gps": {
-            "lat": 20.701039,
-            "lon": -5.893574
-        },
-        "camera_frame": "frame_799.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.975537",
-        "speed": 92.58,
-        "gps": {
-            "lat": 42.78107,
-            "lon": -42.70844
-        },
-        "camera_frame": "frame_724.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.985698",
-        "speed": 161.05,
-        "gps": {
-            "lat": 82.169174,
-            "lon": -80.908212
-        },
-        "camera_frame": "frame_450.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:44.995956",
-        "speed": 116.45,
-        "gps": {
-            "lat": -88.703499,
-            "lon": -32.121672
-        },
-        "camera_frame": "frame_877.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:45.006188",
-        "speed": 81.78,
-        "gps": {
-            "lat": 74.683141,
-            "lon": -140.802214
-        },
-        "camera_frame": "frame_452.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:45.016412",
-        "speed": 168.97,
-        "gps": {
-            "lat": 56.671589,
-            "lon": -110.512529
-        },
-        "camera_frame": "frame_780.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:45.026563",
-        "speed": 83.37,
-        "gps": {
-            "lat": -47.325225,
-            "lon": -179.142432
-        },
-        "camera_frame": "frame_655.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:45.036779",
-        "speed": 153.6,
-        "gps": {
-            "lat": 16.753203,
-            "lon": -6.343228
-        },
-        "camera_frame": "frame_281.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:45.046925",
-        "speed": 111.98,
-        "gps": {
-            "lat": 79.187327,
-            "lon": 127.995338
-        },
-        "camera_frame": "frame_358.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:45.057060",
-        "speed": 163.67,
-        "gps": {
-            "lat": -62.372213,
-            "lon": -87.562898
-        },
-        "camera_frame": "frame_2.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:45.067219",
-        "speed": 172.05,
-        "gps": {
-            "lat": 79.36242,
-            "lon": 164.733686
-        },
-        "camera_frame": "frame_226.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:45.077367",
-        "speed": 3.82,
-        "gps": {
-            "lat": -56.277671,
-            "lon": -77.016906
-        },
-        "camera_frame": "frame_550.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:45.087500",
-        "speed": 138.49,
-        "gps": {
-            "lat": -46.972088,
-            "lon": -139.182887
-        },
-        "camera_frame": "frame_196.jpg"
-    },
-    {
-        "timestamp": "2025-10-26T14:40:45.097640",
-        "speed": 146.48,
-        "gps": {
-            "lat": -73.123754,
-            "lon": 81.798726
-        },
-        "camera_frame": "frame_9.jpg"
-    },
-    {
         "timestamp": "2025-10-26T14:40:45.107774",
         "speed": 97.58,
         "gps": {
@@ -448,5 +178,725 @@
             "lon": -23.150504
         },
         "camera_frame": "frame_945.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:21:56.175421",
+        "speed": 57.69,
+        "gps": {
+            "lat": 60.590359,
+            "lon": 131.055299
+        },
+        "camera_frame": "frame_138.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:21:57.180735",
+        "speed": 19.45,
+        "gps": {
+            "lat": -50.602074,
+            "lon": -23.520209
+        },
+        "camera_frame": "frame_620.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:21:58.182584",
+        "speed": 113.76,
+        "gps": {
+            "lat": -28.62732,
+            "lon": -141.016157
+        },
+        "camera_frame": "frame_246.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:21:59.184258",
+        "speed": 153.24,
+        "gps": {
+            "lat": -56.352164,
+            "lon": -148.538249
+        },
+        "camera_frame": "frame_125.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:00.187103",
+        "speed": 133.33,
+        "gps": {
+            "lat": 20.25176,
+            "lon": 136.976862
+        },
+        "camera_frame": "frame_58.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:01.188840",
+        "speed": 130.31,
+        "gps": {
+            "lat": -53.949236,
+            "lon": -60.100847
+        },
+        "camera_frame": "frame_495.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:02.191403",
+        "speed": 49.52,
+        "gps": {
+            "lat": 16.917769,
+            "lon": 68.377472
+        },
+        "camera_frame": "frame_326.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:03.193765",
+        "speed": 130.24,
+        "gps": {
+            "lat": -75.996915,
+            "lon": -91.130876
+        },
+        "camera_frame": "frame_162.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:04.195580",
+        "speed": 100.99,
+        "gps": {
+            "lat": 13.070606,
+            "lon": 118.604613
+        },
+        "camera_frame": "frame_123.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:05.204474",
+        "speed": 15.16,
+        "gps": {
+            "lat": 42.001534,
+            "lon": -176.782015
+        },
+        "camera_frame": "frame_410.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:06.220986",
+        "speed": 90.78,
+        "gps": {
+            "lat": 40.38485,
+            "lon": -79.747254
+        },
+        "camera_frame": "frame_323.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:07.229001",
+        "speed": 112.22,
+        "gps": {
+            "lat": -0.676765,
+            "lon": -10.071616
+        },
+        "camera_frame": "frame_248.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:08.231678",
+        "speed": 149.29,
+        "gps": {
+            "lat": 30.453767,
+            "lon": -117.795463
+        },
+        "camera_frame": "frame_629.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:09.241990",
+        "speed": 22.48,
+        "gps": {
+            "lat": -40.074873,
+            "lon": 148.01017
+        },
+        "camera_frame": "frame_687.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:10.249451",
+        "speed": 142.72,
+        "gps": {
+            "lat": 69.10633,
+            "lon": -37.929778
+        },
+        "camera_frame": "frame_843.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:11.251050",
+        "speed": 130.41,
+        "gps": {
+            "lat": 46.866001,
+            "lon": 50.869439
+        },
+        "camera_frame": "frame_109.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:12.254875",
+        "speed": 194.82,
+        "gps": {
+            "lat": 50.835862,
+            "lon": 121.261436
+        },
+        "camera_frame": "frame_158.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:13.257247",
+        "speed": 129.07,
+        "gps": {
+            "lat": 30.143561,
+            "lon": -144.184053
+        },
+        "camera_frame": "frame_600.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:14.259743",
+        "speed": 116.26,
+        "gps": {
+            "lat": -47.163405,
+            "lon": -149.278684
+        },
+        "camera_frame": "frame_435.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:15.262029",
+        "speed": 79.07,
+        "gps": {
+            "lat": -88.990316,
+            "lon": 162.538466
+        },
+        "camera_frame": "frame_105.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:16.263766",
+        "speed": 102.55,
+        "gps": {
+            "lat": 89.386067,
+            "lon": -173.169103
+        },
+        "camera_frame": "frame_824.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:17.265965",
+        "speed": 26.34,
+        "gps": {
+            "lat": 10.646903,
+            "lon": -54.452988
+        },
+        "camera_frame": "frame_795.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:18.268476",
+        "speed": 195.78,
+        "gps": {
+            "lat": -53.514795,
+            "lon": -29.53884
+        },
+        "camera_frame": "frame_916.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:19.270690",
+        "speed": 181.75,
+        "gps": {
+            "lat": 74.008414,
+            "lon": -117.517469
+        },
+        "camera_frame": "frame_630.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:20.272907",
+        "speed": 74.99,
+        "gps": {
+            "lat": -89.553018,
+            "lon": 143.175962
+        },
+        "camera_frame": "frame_825.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:21.276874",
+        "speed": 41.1,
+        "gps": {
+            "lat": -36.992809,
+            "lon": 134.878085
+        },
+        "camera_frame": "frame_129.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:22.279045",
+        "speed": 96.67,
+        "gps": {
+            "lat": 41.531128,
+            "lon": 0.61735
+        },
+        "camera_frame": "frame_559.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:23.281128",
+        "speed": 190.85,
+        "gps": {
+            "lat": 54.53731,
+            "lon": -146.909733
+        },
+        "camera_frame": "frame_822.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:24.283554",
+        "speed": 175.79,
+        "gps": {
+            "lat": -77.629694,
+            "lon": -178.630943
+        },
+        "camera_frame": "frame_636.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:25.286160",
+        "speed": 57.35,
+        "gps": {
+            "lat": 86.099652,
+            "lon": 169.358839
+        },
+        "camera_frame": "frame_645.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:26.288165",
+        "speed": 169.78,
+        "gps": {
+            "lat": -10.060346,
+            "lon": 96.930444
+        },
+        "camera_frame": "frame_750.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:27.290460",
+        "speed": 180.83,
+        "gps": {
+            "lat": 47.544181,
+            "lon": -64.241976
+        },
+        "camera_frame": "frame_763.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:28.292254",
+        "speed": 96.85,
+        "gps": {
+            "lat": -51.141987,
+            "lon": -139.121681
+        },
+        "camera_frame": "frame_968.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:29.295531",
+        "speed": 139.93,
+        "gps": {
+            "lat": 53.9214,
+            "lon": 110.60722
+        },
+        "camera_frame": "frame_659.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:30.299293",
+        "speed": 117.17,
+        "gps": {
+            "lat": -16.366156,
+            "lon": -12.082507
+        },
+        "camera_frame": "frame_940.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:31.301510",
+        "speed": 199.1,
+        "gps": {
+            "lat": 82.926513,
+            "lon": -171.885493
+        },
+        "camera_frame": "frame_556.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:32.303470",
+        "speed": 187.75,
+        "gps": {
+            "lat": 31.596368,
+            "lon": -99.678494
+        },
+        "camera_frame": "frame_619.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:33.305746",
+        "speed": 55.64,
+        "gps": {
+            "lat": -86.995389,
+            "lon": 100.47056
+        },
+        "camera_frame": "frame_713.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:34.307815",
+        "speed": 169.86,
+        "gps": {
+            "lat": -39.142554,
+            "lon": -172.77063
+        },
+        "camera_frame": "frame_509.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:35.309905",
+        "speed": 58.9,
+        "gps": {
+            "lat": 78.416178,
+            "lon": -15.671014
+        },
+        "camera_frame": "frame_46.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:36.313255",
+        "speed": 124.95,
+        "gps": {
+            "lat": 24.015715,
+            "lon": -178.362666
+        },
+        "camera_frame": "frame_665.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:37.319605",
+        "speed": 116.01,
+        "gps": {
+            "lat": -8.269036,
+            "lon": 133.141685
+        },
+        "camera_frame": "frame_574.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:38.324508",
+        "speed": 81.34,
+        "gps": {
+            "lat": 30.530475,
+            "lon": -97.543406
+        },
+        "camera_frame": "frame_406.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:39.329828",
+        "speed": 29.01,
+        "gps": {
+            "lat": -22.114346,
+            "lon": 93.381996
+        },
+        "camera_frame": "frame_81.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:40.344207",
+        "speed": 57.76,
+        "gps": {
+            "lat": -51.050096,
+            "lon": -41.720551
+        },
+        "camera_frame": "frame_269.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:41.350513",
+        "speed": 74.0,
+        "gps": {
+            "lat": -75.733091,
+            "lon": 10.599622
+        },
+        "camera_frame": "frame_297.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:42.361124",
+        "speed": 191.43,
+        "gps": {
+            "lat": 19.819733,
+            "lon": 30.90588
+        },
+        "camera_frame": "frame_658.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:43.364371",
+        "speed": 12.68,
+        "gps": {
+            "lat": 82.557835,
+            "lon": 102.972881
+        },
+        "camera_frame": "frame_560.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:44.378434",
+        "speed": 168.43,
+        "gps": {
+            "lat": -60.785939,
+            "lon": -144.703396
+        },
+        "camera_frame": "frame_364.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:45.384294",
+        "speed": 138.22,
+        "gps": {
+            "lat": -35.571353,
+            "lon": -45.07997
+        },
+        "camera_frame": "frame_241.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:46.387477",
+        "speed": 160.41,
+        "gps": {
+            "lat": 66.358906,
+            "lon": -113.960261
+        },
+        "camera_frame": "frame_658.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:47.390146",
+        "speed": 191.57,
+        "gps": {
+            "lat": -72.180402,
+            "lon": -98.602828
+        },
+        "camera_frame": "frame_665.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:48.392528",
+        "speed": 179.37,
+        "gps": {
+            "lat": 77.57419,
+            "lon": 156.828669
+        },
+        "camera_frame": "frame_153.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:49.395748",
+        "speed": 169.16,
+        "gps": {
+            "lat": -28.31533,
+            "lon": -120.252398
+        },
+        "camera_frame": "frame_752.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:50.398916",
+        "speed": 111.57,
+        "gps": {
+            "lat": 28.635067,
+            "lon": -62.940427
+        },
+        "camera_frame": "frame_878.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:51.401314",
+        "speed": 191.78,
+        "gps": {
+            "lat": 25.718775,
+            "lon": -82.461587
+        },
+        "camera_frame": "frame_317.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:52.404409",
+        "speed": 22.09,
+        "gps": {
+            "lat": -30.262839,
+            "lon": -46.797878
+        },
+        "camera_frame": "frame_338.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:53.407003",
+        "speed": 84.9,
+        "gps": {
+            "lat": 38.558275,
+            "lon": 153.187838
+        },
+        "camera_frame": "frame_729.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:54.409908",
+        "speed": 51.83,
+        "gps": {
+            "lat": -74.50683,
+            "lon": 76.822777
+        },
+        "camera_frame": "frame_758.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:55.413156",
+        "speed": 61.97,
+        "gps": {
+            "lat": -78.630212,
+            "lon": -33.183401
+        },
+        "camera_frame": "frame_762.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:56.415650",
+        "speed": 137.58,
+        "gps": {
+            "lat": -60.710258,
+            "lon": -131.723512
+        },
+        "camera_frame": "frame_962.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:57.418023",
+        "speed": 62.02,
+        "gps": {
+            "lat": 52.589932,
+            "lon": -102.494547
+        },
+        "camera_frame": "frame_731.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:58.420215",
+        "speed": 145.59,
+        "gps": {
+            "lat": -78.482312,
+            "lon": 44.032493
+        },
+        "camera_frame": "frame_468.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:22:59.422746",
+        "speed": 120.26,
+        "gps": {
+            "lat": -5.889385,
+            "lon": -11.775946
+        },
+        "camera_frame": "frame_784.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:00.425246",
+        "speed": 19.05,
+        "gps": {
+            "lat": 18.329044,
+            "lon": -12.370329
+        },
+        "camera_frame": "frame_879.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:01.427620",
+        "speed": 36.8,
+        "gps": {
+            "lat": -17.12886,
+            "lon": 51.88105
+        },
+        "camera_frame": "frame_217.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:02.430317",
+        "speed": 11.44,
+        "gps": {
+            "lat": -59.371494,
+            "lon": -85.467472
+        },
+        "camera_frame": "frame_162.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:03.434024",
+        "speed": 174.82,
+        "gps": {
+            "lat": -5.966646,
+            "lon": -168.891303
+        },
+        "camera_frame": "frame_949.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:04.436325",
+        "speed": 55.31,
+        "gps": {
+            "lat": -46.472025,
+            "lon": -100.270322
+        },
+        "camera_frame": "frame_311.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:05.438921",
+        "speed": 179.85,
+        "gps": {
+            "lat": 54.157595,
+            "lon": -160.986936
+        },
+        "camera_frame": "frame_446.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:06.441390",
+        "speed": 118.57,
+        "gps": {
+            "lat": -33.720267,
+            "lon": 158.083432
+        },
+        "camera_frame": "frame_258.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:07.444246",
+        "speed": 120.97,
+        "gps": {
+            "lat": -81.285857,
+            "lon": -73.093138
+        },
+        "camera_frame": "frame_947.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:08.447655",
+        "speed": 164.46,
+        "gps": {
+            "lat": -82.673758,
+            "lon": 69.493342
+        },
+        "camera_frame": "frame_649.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:09.461001",
+        "speed": 56.01,
+        "gps": {
+            "lat": 86.751103,
+            "lon": 13.742248
+        },
+        "camera_frame": "frame_321.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:10.479951",
+        "speed": 27.01,
+        "gps": {
+            "lat": -72.775854,
+            "lon": 164.291579
+        },
+        "camera_frame": "frame_566.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:11.485499",
+        "speed": 67.44,
+        "gps": {
+            "lat": 67.592168,
+            "lon": 167.932558
+        },
+        "camera_frame": "frame_96.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:12.498527",
+        "speed": 94.97,
+        "gps": {
+            "lat": 39.099653,
+            "lon": -23.092707
+        },
+        "camera_frame": "frame_459.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:13.504579",
+        "speed": 113.7,
+        "gps": {
+            "lat": 58.451254,
+            "lon": -160.619919
+        },
+        "camera_frame": "frame_646.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:14.512898",
+        "speed": 195.76,
+        "gps": {
+            "lat": -35.170998,
+            "lon": -80.763268
+        },
+        "camera_frame": "frame_328.jpg"
+    },
+    {
+        "timestamp": "2025-10-26T15:23:15.517749",
+        "speed": 114.87,
+        "gps": {
+            "lat": -50.103013,
+            "lon": -115.824947
+        },
+        "camera_frame": "frame_212.jpg"
     }
 ]

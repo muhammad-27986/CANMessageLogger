@@ -1,14 +1,21 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect } from "react";
 
 function App() {
-  const [data, setData] = useState({});
+  const [data, setData] = useState({
+    speed: 0,
+    rpm: 0,
+    fuel: 0,
+    temperature: 0,
+  });
 
   useEffect(() => {
     const interval = setInterval(() => {
-      fetch('http://localhost:5000/data')
-        .then(res => res.json())
-        .then(d => setData(d));
-    }, 1000); // fetch every second
+      fetch("http://127.0.0.1:5000/data")
+        .then((res) => res.json())
+        .then((d) => setData(d))
+        .catch((err) => console.error("Fetch error:", err));
+    }, 1000);
+
     return () => clearInterval(interval);
   }, []);
 
@@ -24,4 +31,3 @@ function App() {
 }
 
 export default App;
-
